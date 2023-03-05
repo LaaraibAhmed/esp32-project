@@ -5,7 +5,7 @@
 
 
 #define WIFI_SSID "lrbhotspot"
-#define WIFI_PASSWORD "LRB@12345lrb"
+#define WIFI_PASSWORD "****"
 
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
